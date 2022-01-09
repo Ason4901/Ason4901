@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/studentfinanc11" target="blank"><img src="https://img.shields.io/twitter/follow/studentfinanc11?logo=twitter&style=for-the-badge" alt="studentfinanc11" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [Github: ason_2455](Github: ason_2455)
+- 👨‍💻 All of my projects are available at [Github: Ason4901](Github: Ason4901)
 
 - 📝 I regularly write articles on [https://auth.geeksforgeeks.org/user/ashutoshprakash2455/articles](https://auth.geeksforgeeks.org/user/ashutoshprakash2455/articles)
 
