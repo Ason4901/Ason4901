@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://auth.geeksforgeeks.org/user/ashutoshprakash2455/articles](https://auth.geeksforgeeks.org/user/ashutoshprakash2455/articles)
 
-- 💬 Ask me about **Flutter Firebase Competitive Programming**
+- 💬 Ask me about **Flutter Firebase Competitive Programming:- https://www.codechef.com/users/ashutosh_2455 **
 
 - 📫 How to reach me **ashutoshprakash2455@gmail.com**
 
